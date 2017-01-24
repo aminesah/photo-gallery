@@ -1,13 +1,16 @@
 # Photo Gallery
 ## Info
 Photo Gallery is a free image gallery CMS based on PHP, It is an easy-to-use image gallery CMS .
+
 ## Features
 * admin panel
 * image uploader
 * log 
+
 ## Dependencies
 * php>= 5.2
 * MYSQL Database
+
 ## Installation 
 1. Create a MySql database 
 2. Import the .sql file provided 
